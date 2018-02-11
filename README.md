@@ -1,4 +1,5 @@
 # Learning Angular - This is the first project
+## I was created in the feature/branch_lesson branch
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.9.
 
